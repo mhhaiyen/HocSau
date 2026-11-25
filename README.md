@@ -26,12 +26,14 @@ Repository này lưu trữ toàn bộ bài tập lý thuyết, bài thực hành
 | [BT02_ComputationGraph_Mai Hoang Hai Yen_3123580068](./BT02_ComputationGraph_Mai%20Hoang%20Hai%20Yen_3123580068) | **Bài tập 02:** Hồi quy logistic và đồ thị tính toán | Tìm hiểu cơ chế lan truyền xuôi, ngược qua đồ thị tính toán và ứng dụng vào bài toán hồi quy logistic. |
 | [BT03_PerceptronDL_Mai Hoang Hai Yen_3123580068](./BT03_PerceptronDL_Mai%20Hoang%20Hai%20Yen_3123580068) | **Bài tập 03:** Perceptron và mạng học sâu | Cài đặt thuật toán perceptron và làm quen với kiến trúc mạng nơ-ron sâu cơ bản. |
 | [BT04_MLP_Mai Hoang Hai Yen_3123580068](./BT04_MLP_Mai%20Hoang%20Hai%20Yen_3123580068) | **Bài tập 04:** MLP và mạng học sâu | Xây dựng mạng đa tầng (MLP) với các hàm kích hoạt phi tuyến. |
+| [BT05_CNN_Mai Hoang Hai Yen_3123580068.docx](./BT05_CNN_Mai%20Hoang%20Hai%20Yen_3123580068.docx) | **Bài tập 05:** Mạng nơ-ron tích chập (CNN) | Tính toán phép tích chập, Max Pooling, xác định kích thước đặc trưng qua các tầng, xử lý đầu vào độ dài thay đổi (Padding/Truncation, Global Max Pooling) và biểu diễn văn bản với One-hot/Embedding.|
 
 ### 3. Bài tập mô phỏng (Mock)
 | Tên file | Nội dung | Mô tả chi tiết |
 | :--- | :--- | :--- |
 | [M01 - BatchGD_Regression_Mai Hoang Hai Yen_3123580068](./M01%20-%20BatchGD_Regression_Mai%20Hoang%20Hai%20Yen_3123580068) | **M01:** Batch gradient descent regression | Tối ưu hóa mô hình hồi quy sử dụng thuật toán hạ gradient theo lô (batch gradient descent). |
 | [M02-Mock_MLP_Mai Hoang Hai Yen_3123580068](./M02-Mock_MLP_Mai%20Hoang%20Hai%20Yen_3123580068) | **M02:** Mock MLP | Bài tập tổng hợp và kiểm tra mô phỏng kiến trúc mạng đa tầng (MLP). |
+| [M03 - SGD_MLP_RNN_Mai Hoang Hai Yen_3123580068.pdf](./M03%20-%20SGD_MLP_RNN_Mai%20Hoang%20Hai%20Yen_3123580068.pdf) | **M03:** Huấn luyện SGD, MLP & RNN | Tính toán thủ công quá trình lan truyền thuận, cập nhật tham số bằng Stochastic Gradient Descent (SGD), so sánh với Batch GD, và tính toán trạng thái ẩn cho mạng MLP và RNN. |
 
 ---
 
